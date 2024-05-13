@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Yuriko!
-- 👀 I’m interested in data pipeline technology and also in digital audio signal processing.
-- 🌱 I’m currently learning data engineering and ETL on cloud technologies.
-- 📫 You can contact me on yurikochristian@gmail.com
+Hi, I’m Yuriko! 👋
 
 <!---
 yurikochristian/yurikochristian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
